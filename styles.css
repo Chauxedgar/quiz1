@@ -1,0 +1,65 @@
+body{
+    background-color: #6f6fc0;
+}
+.headercontainer{
+    display: flex;
+    background-color: 	#d6ae01;
+    border-radius: 1vh;
+    border-style: solid;
+    border-color: #7a791a;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 5px;
+    justify-content: space-around;
+    
+}
+.logoimg{
+    background-color: #75af47;
+    border-color: #249918;
+    width: 20vh;
+    border-style: solid;
+    border-radius: 0.5vh;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
+.socialcontainer{
+    display: flex;
+    background-color: gray;
+    align-items: flex-end;
+    margin-right: 0%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 5px;
+    width: 80vh;
+    justify-content: space-between;
+    border-style: solid;
+    border-color: black;
+    border-radius: 0.5vh;
+    padding: 10px,10px,10px,10px;
+}
+.social{
+    background-color: #686868;
+    padding: 10px,10px,10px,10px;
+    margin:auto;
+}
+
+.divp{
+    display: flex;
+
+}
+.divgris{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.navcontainer{
+    background-color: black;
+}
+.Buttons-container{
+    background-color: red;
+}
